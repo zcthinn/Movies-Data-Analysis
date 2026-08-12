@@ -26,12 +26,22 @@ An exploratory analysis of a large-scale movie industry dataset (~1M titles span
 5. **Correlation Analysis** — Measured Pearson correlation between budget and both revenue and ROI to separate scale effects from efficiency.
 6. **Genre & Director Analysis** — Exploded multi-genre records and grouped by genre/director to rank profitability and consistency, applying a minimum-title threshold to avoid small-sample bias.
 
+## Data
+The full dataset is ~1M rows / 151MB — too large for GitHub's file limits. 
+- The full dataset can be regenerated or re-downloaded from **[(https://www.kaggle.com/datasets/mjshubham21/movie-dataset-for-analytics-and-visualization)]**.
+
+All figures and insights quoted in this README were computed on the **full 1M-row dataset**.
+
 ## Tools & Libraries
 - **Python** — pandas
 - **Visualization** — Matplotlib
 - **Environment** — Jupyter Notebook
 
-## 📊 Sample Visuals
+## Sample Visuals
+
+![Average Budget Over Time](images/Avg_Budget_Over_Time.png)
+![Budget vs ROI](images/Budget_vs_ROI.png)
+![Genre Profitability](images/genre_profitability.png)
 
 
 ## Business Value
