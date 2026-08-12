@@ -28,7 +28,7 @@ An exploratory analysis of a large-scale movie industry dataset (~1M titles span
 
 ## Data
 The full dataset is ~1M rows / 151MB — too large for GitHub's file limits. 
-- The full dataset can be regenerated or re-downloaded from **[(https://www.kaggle.com/datasets/mjshubham21/movie-dataset-for-analytics-and-visualization)]**.
+- The full dataset can be regenerated or re-downloaded from https://www.kaggle.com/datasets/mjshubham21/movie-dataset-for-analytics-and-visualization.
 
 All figures and insights quoted in this README were computed on the **full 1M-row dataset**.
 
@@ -39,9 +39,9 @@ All figures and insights quoted in this README were computed on the **full 1M-ro
 
 ## Sample Visuals
 
-![Average Budget Over Time](images/Avg_Budget_Over_Time.png)
-![Budget vs ROI](images/Budget_vs_ROI.png)
-![Genre Profitability](images/genre_profitability.png)
+![Average Budget Over Time](images/AvgBudgetOverTime.png)
+![Budget vs ROI](images/BudgetvsROI.png)
+![Genre Profitability](images/GenreProfitability.png)
 
 
 ## Business Value
@@ -51,4 +51,4 @@ This workflow demonstrates how a studio or investment team could:
 - **Evaluate director track records** using a minimum sample-size threshold, avoiding false signal from one-off breakout films
 
 ## Download
-
+https://github.com/zcthinn/Movies-Data-Analysis/blob/main/notebooks/Movies_Data_Analysis.ipynb to explore interactively.
