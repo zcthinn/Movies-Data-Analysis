@@ -39,8 +39,8 @@ All figures and insights quoted in this README were computed on the **full 1M-ro
 
 ## Sample Visuals
 
-![Average Budget Over Time](images/avg_budget_over_time.png)
-![Budget vs ROI](images/budget_vs_roi.png)
+![Average Budget Over Time](images/Avg_Budget_Over_Time.png)
+![Budget vs ROI](images/Budget_vs_ROI.png)
 ![Genre Profitability](images/genre_profitability.png)
 
 
